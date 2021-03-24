@@ -14,7 +14,6 @@
 - [x] 게시판 구현
 - [x] Flask / MariaDB 연동
 - [x] Flask / gunicorn / nginx 연동
-- [x] 호스팅 [호스팅 주소: http://bytecoin.site ]
 - [x] 완료보고서(작성중) [주소: https://docs.google.com/document/d/1dSDN7aD97M9XGEUttT2R_wX1uZc2gWVOfctEsQ4KmFA/edit#]
 
 ------------ | -------------
